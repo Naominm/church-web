@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --primary-color: #c92f2f;
+  --color-black-dark: #252532;
+  --color-grey-light: #f3f3f3;
+  --color-grey-dark: #aca39e;
+  --color-black-light: #1d0b0b;
+  --color-white: #ffffff;
+  --primary-font: "Open Sans", sans-serif;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 1.6rem;
+}
+
+ul,
+ol {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+}
